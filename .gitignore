@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Session files
+sessions/
+*.session
+
+# Env file
+.env
+
+# Logs and generated files
+*.log
+*.png
+
+# Virtual environment
+venv/

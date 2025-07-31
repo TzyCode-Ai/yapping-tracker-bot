@@ -1,0 +1,5 @@
+telethon==1.35.0
+pymongo==4.7.2
+apscheduler==3.10.4
+pytz==2024.1
+python-dotenv==1.0.1
