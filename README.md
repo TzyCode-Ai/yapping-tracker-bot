@@ -37,7 +37,7 @@ This is a 24/7 Telegram bot built with **Telethon** and **MongoDB** to track out
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/your-username/bot-telegram-tracker.git
+git clone https://github.com/TzyCode-Ai/yapping-tracker-bot
 cd bot-telegram-tracker
 2. Install dependencies
 
